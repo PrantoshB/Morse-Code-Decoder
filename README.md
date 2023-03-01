@@ -86,7 +86,7 @@ $ git clone https://github.com/PrantoshB/Morse-Code-Decoder.git
 - LinkedIn: [Prantosh Biswas](https://linkedin.com/in/prantosh)
 
 
-👤 **Tanveer Ahmad **
+👤 **Tanveer Ahmad**
 
 - GitHub: [@tanveerisonline ](https://github.com/tanveerisonline)
 - Twitter: [@Tanveer Ahmad](https://twitter.com/Tanveer98589023)
